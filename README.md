@@ -81,16 +81,12 @@
 
 ​## 🚨 本次更新总结
 1. **号池检测注册机在源源不断的推送号**
-![a7b7925f5de9dc6401c6ab3d56054758|690x236](upload://8Lmk1B0kkkWo1ZQinzM476pzw0P.png)
-
 2. **个人令牌限制**
-![3d60ac08db24263a47caa92b52d3607e|690x342](upload://u5rSjyiVpNG4t7giyZZKTDUHUN8.png)
-新使用的用户进去后对话会出现该文字 吧后面的邮箱发到评论区我会为你们每人发放1万额度的对话 作为测试
 3. **账户的监控以及请求的监控**
-![image|690x58](upload://metcGm1JofnPXzntnHi9oYWxf1o.png)
-![image|690x245](upload://cE0ogbz1kMOKBIQwZMFPEfAHRkn.png)
-![image|690x240](upload://6lsVQJ2IHaql49Zp8ljebbdnVtV.png)
-
+4. **计费为按次，对话一次扣1，不按warp的token计算，更良心**
+5. **次数面板，调整为后台配置的，并兼容无限量套餐**
+6. **号池次数实时更新（有绑定账号的）**
+   **说白了就是即使你使用4.1蹬 对话一次也就是扣1额度**
 ​
 
 ​
