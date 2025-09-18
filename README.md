@@ -24,10 +24,10 @@
 1. **下载软件** - 下载 `warp.exe` 
 2. **关闭VPN** - 确保关闭所有其他VPN软件
 3. **选择路径** - 选择你的Warp应用程序路径
-![3d315ecf2b62d0f493a375b0127f7034|406x98](upload://6zdREY6SUnbBFnAcOqCsmeNTu9C.png)
+![选择Warp路径](./2.png)
 
 4. **自定义网关** - 点击"自定义"按钮配置如下
-![image|690x225](upload://l17OX9qETEhzE4P1PBukO8rwIAO.png)
+![自定义网关配置](./1.png)
 
 5. **运行Warp** - 正常使用Warp，享受无限对话
 
@@ -44,9 +44,9 @@
 
 ## 👨‍💻 作者信息
 
-**作者**: 林深时见鹿
+**作者**: 林深时见鹿->天才只是见我的门槛
 **版本**: v1.3 新测试版
-![image|690x63](upload://xI8cnmAUkmEe21ErSEKUlECHV6l.png)
+![天才只是见我的门槛](./3.png)
 
 **开放时间**: 至9月20日
 
