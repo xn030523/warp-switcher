@@ -17,7 +17,6 @@
 
 **最新版本**: v1.03
 **下载链接**: [GitHub Releases]
-**备用下载地址**:[123盘](https://www.123912.com/s/tSPQjv-B9lF3)
 
 ## 🎮 使用方法
 
