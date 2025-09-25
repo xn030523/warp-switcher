@@ -1,4 +1,4 @@
-# 🚀 Warp Infinite - Warp无限对话工具（测试版）
+# 🚀 Warp Infinite - Warp无限对话工具（正式版）
 
 ## 📖 软件简介
 
